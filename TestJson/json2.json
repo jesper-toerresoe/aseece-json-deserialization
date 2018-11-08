@@ -1,0 +1,262 @@
+[
+  {
+    "haandvaerkerId": 1,
+    "hvAnsaettelsedato": "2014-07-05T00:00:00",
+    "hvEfternavn": "Sørensen",
+    "hvFagomraade": "Knaster og Spær",
+    "hvFornavn": "Søren Knast",
+    "vaerktoejskasse": [
+      {
+        "vtkId": 1,
+        "vtkAnskaffet": "2018-07-05T00:00:00",
+        "vtkFabrikat": "DanTools",
+        "vtkEjesAf": 1,
+        "vtkModel": "X-Large",
+        "vtkSerienummer": "4345756jddrtws",
+        "vtkFarve": "Blå",
+        "vaerktoej": [
+          {
+            "vtId": 1,
+            "vtAnskaffet": "2016-08-05T00:00:00",
+            "vtFabrikat": "Bacho",
+            "vtModel": "Svensknøgle med greb",
+            "vtSerienr": "q364565u5uggggg",
+            "vtType": "12\"",
+            "liggerIvtk": 1
+          },
+          {
+            "vtId": 2,
+            "vtAnskaffet": "2014-08-05T00:00:00",
+            "vtFabrikat": "Stanley",
+            "vtModel": "Bidetang",
+            "vtSerienr": "54333",
+            "vtType": "Skævbidder",
+            "liggerIvtk": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "haandvaerkerId": 2,
+    "hvAnsaettelsedato": "2018-10-05T00:00:00",
+    "hvEfternavn": "Tørresø",
+    "hvFagomraade": "Brædder etc",
+    "hvFornavn": "Jesper",
+    "vaerktoejskasse": [
+      {
+        "vtkId": 2,
+        "vtkAnskaffet": "2018-09-05T00:00:00",
+        "vtkFabrikat": "TupperWare",
+        "vtkEjesAf": 2,
+        "vtkModel": "Eletrical Tooæbox",
+        "vtkSerienummer": "n.a.",
+        "vtkFarve": "Klar",
+        "vaerktoej": []
+      }
+    ]
+  },
+  {
+    "haandvaerkerId": 3,
+    "hvAnsaettelsedato": "2018-10-25T00:00:00",
+    "hvEfternavn": "string3333",
+    "hvFagomraade": "stringrrrr",
+    "hvFornavn": "strrrrring",
+    "vaerktoejskasse": [
+      {
+        "vtkId": 3,
+        "vtkAnskaffet": "2018-10-25T00:00:00",
+        "vtkFabrikat": "string",
+        "vtkEjesAf": 3,
+        "vtkModel": "string",
+        "vtkSerienummer": "string",
+        "vtkFarve": "string",
+        "vaerktoej": [
+          {
+            "vtId": 3,
+            "vtAnskaffet": "2018-10-25T00:00:00",
+            "vtFabrikat": "string",
+            "vtModel": "string",
+            "vtSerienr": "string",
+            "vtType": "string",
+            "liggerIvtk": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "haandvaerkerId": 4,
+    "hvAnsaettelsedato": "2018-11-08T00:00:00",
+    "hvEfternavn": "string",
+    "hvFagomraade": "string",
+    "hvFornavn": "string",
+    "vaerktoejskasse": [
+      {
+        "vtkId": 4,
+        "vtkAnskaffet": "2018-11-08T00:00:00",
+        "vtkFabrikat": "string",
+        "vtkEjesAf": 4,
+        "vtkModel": "string",
+        "vtkSerienummer": "string",
+        "vtkFarve": "string",
+        "vaerktoej": [
+          {
+            "vtId": 4,
+            "vtAnskaffet": "2018-11-08T00:00:00",
+            "vtFabrikat": "string",
+            "vtModel": "string",
+            "vtSerienr": "string",
+            "vtType": "string",
+            "liggerIvtk": 4
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "haandvaerkerId": 8,
+    "hvAnsaettelsedato": "2018-11-08T00:00:00",
+    "hvEfternavn": "string",
+    "hvFagomraade": "string",
+    "hvFornavn": "string",
+    "vaerktoejskasse": [
+      {
+        "vtkId": 5,
+        "vtkAnskaffet": "2018-11-08T00:00:00",
+        "vtkFabrikat": "string",
+        "vtkEjesAf": 8,
+        "vtkModel": "string",
+        "vtkSerienummer": "string",
+        "vtkFarve": "string",
+        "vaerktoej": [
+          {
+            "vtId": 5,
+            "vtAnskaffet": "2018-11-08T00:00:00",
+            "vtFabrikat": "string",
+            "vtModel": "string",
+            "vtSerienr": "string",
+            "vtType": "string",
+            "liggerIvtk": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "haandvaerkerId": 9,
+    "hvAnsaettelsedato": "2018-11-08T00:00:00",
+    "hvEfternavn": "string",
+    "hvFagomraade": "string",
+    "hvFornavn": "string",
+    "vaerktoejskasse": [
+      {
+        "vtkId": 6,
+        "vtkAnskaffet": "2018-11-08T00:00:00",
+        "vtkFabrikat": "string",
+        "vtkEjesAf": 9,
+        "vtkModel": "string",
+        "vtkSerienummer": "string",
+        "vtkFarve": "string",
+        "vaerktoej": [
+          {
+            "vtId": 6,
+            "vtAnskaffet": "2018-11-08T00:00:00",
+            "vtFabrikat": "string",
+            "vtModel": "string",
+            "vtSerienr": "string",
+            "vtType": "string",
+            "liggerIvtk": 6
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "haandvaerkerId": 11,
+    "hvAnsaettelsedato": "2018-11-08T00:00:00",
+    "hvEfternavn": "strhhing",
+    "hvFagomraade": "strhhing",
+    "hvFornavn": "strhhing",
+    "vaerktoejskasse": [
+      {
+        "vtkId": 7,
+        "vtkAnskaffet": "2018-11-08T00:00:00",
+        "vtkFabrikat": "string",
+        "vtkEjesAf": 11,
+        "vtkModel": "string",
+        "vtkSerienummer": "string",
+        "vtkFarve": "string",
+        "vaerktoej": [
+          {
+            "vtId": 7,
+            "vtAnskaffet": "2018-11-08T00:00:00",
+            "vtFabrikat": "string",
+            "vtModel": "string",
+            "vtSerienr": "string",
+            "vtType": "string",
+            "liggerIvtk": 7
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "haandvaerkerId": 13,
+    "hvAnsaettelsedato": "2018-11-08T00:00:00",
+    "hvEfternavn": "string",
+    "hvFagomraade": "string",
+    "hvFornavn": "string",
+    "vaerktoejskasse": [
+      {
+        "vtkId": 8,
+        "vtkAnskaffet": "2018-11-08T00:00:00",
+        "vtkFabrikat": "string",
+        "vtkEjesAf": 13,
+        "vtkModel": "string",
+        "vtkSerienummer": "string",
+        "vtkFarve": "string",
+        "vaerktoej": [
+          {
+            "vtId": 8,
+            "vtAnskaffet": "2018-11-08T00:00:00",
+            "vtFabrikat": "string",
+            "vtModel": "string",
+            "vtSerienr": "string",
+            "vtType": "string",
+            "liggerIvtk": 8
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "haandvaerkerId": 15,
+    "hvAnsaettelsedato": "2018-11-08T00:00:00",
+    "hvEfternavn": "string",
+    "hvFagomraade": "string",
+    "hvFornavn": "string",
+    "vaerktoejskasse": [
+      {
+        "vtkId": 9,
+        "vtkAnskaffet": "2018-11-08T00:00:00",
+        "vtkFabrikat": "string",
+        "vtkEjesAf": 15,
+        "vtkModel": "string",
+        "vtkSerienummer": "string",
+        "vtkFarve": "string",
+        "vaerktoej": [
+          {
+            "vtId": 9,
+            "vtAnskaffet": "2018-11-08T00:00:00",
+            "vtFabrikat": "string",
+            "vtModel": "string",
+            "vtSerienr": "string",
+            "vtType": "string",
+            "liggerIvtk": 9
+          }
+        ]
+      }
+    ]
+  }
+]
